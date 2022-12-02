@@ -1,3 +1,3 @@
 # GitHub Steps
 
-Describe in your own words how to establish a connection between a local repository and a remote repository on GitHub.
+To establish a connection between a local repo and a remote repo, first make sure you have set up a local repo on your own machine and a GitHub repo under your own account.
